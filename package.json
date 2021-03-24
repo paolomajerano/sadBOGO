@@ -1,0 +1,20 @@
+{
+  "name": "sadbogo",
+  "version": "1.0.0",
+  "description": "Solution for pandell",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paolomajerano/sadBOGO.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paolomajerano/sadBOGO/issues"
+  },
+  "homepage": "https://github.com/paolomajerano/sadBOGO#readme"
+}
