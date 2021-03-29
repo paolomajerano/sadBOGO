@@ -4,7 +4,8 @@
   "description": "Solution for pandell",
   "main": "index.js",
   "scripts": {
-    "start": "node -e \"console.log(require('./src/bogo').getRandomArray(10000))\""
+    "start": "node -e \"console.dir(require('./src/bogo').getRandomArray(10000), {'maxArrayLength': null})\"",
+    "start:text": "node -e \"console.dir(require('./src/bogo').getRandomArray(10000), {'maxArrayLength': null})\" > output.txt"
   },
   "repository": {
     "type": "git",
