@@ -4,8 +4,7 @@
   "description": "Solution for pandell",
   "main": "index.js",
   "scripts": {
-    "test": "npm test",
-    "start": "node index.js"
+    "start": "node -e \"require('./index').logToConsole()\""
   },
   "repository": {
     "type": "git",
