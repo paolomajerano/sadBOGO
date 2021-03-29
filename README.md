@@ -8,6 +8,6 @@
 
 ### $ npm run start
 
-# To print out to textfile:
+# To print out to text file:
 
 ### $ npm run start:text
